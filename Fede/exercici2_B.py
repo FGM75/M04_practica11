@@ -1,4 +1,4 @@
-def ParellOSenar(numero1):
+def ParellOSenar():
     numero1 = input("Indiqui un número ")
     numero1 = int(numero1)
     if numero1 % 2 != 0:
